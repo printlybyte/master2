@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CameraCommon" />
+            <option value="$PROJECT_DIR$/CameraTest" />
+            <option value="$PROJECT_DIR$/CameraTest0" />
+            <option value="$PROJECT_DIR$/CameraTest2" />
+            <option value="$PROJECT_DIR$/CameraTest3" />
+            <option value="$PROJECT_DIR$/CameraTest6" />
+            <option value="$PROJECT_DIR$/libengine" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
